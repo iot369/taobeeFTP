@@ -1,0 +1,11 @@
+taobeeFTP源码
+
+开发工具：Visual Studio .NET 2008 
+项目描述：ftp传输协议客户端
+包括功能：记录服务器，连接显示，上传下载文件，传输队列，传输进度显示，批量传输，批量下载，树形结构显示
+本地和服务器文件基本操作等功能，具有现如今主流leapftp cutftp 等 ftp软件具有的大部分功能。
+
+技术应用：Socket 编程 文件流读写 TCP FTP协议
+
+作者：baitaotaobee
+源码下载及讨论地址：http://win.51aspx.com/CV/taobeeFTP

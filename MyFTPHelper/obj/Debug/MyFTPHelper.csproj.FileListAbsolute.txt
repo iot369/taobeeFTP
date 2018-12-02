@@ -1,0 +1,59 @@
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.pdb
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.dll
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.pdb
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+C:\Users\yali\Desktop\baitao\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.dll
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.pdb
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.dll
+C:\Users\taobee\Desktop\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.pdb
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.dll
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.dll
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.pdb
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.pdb
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+D:\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.pdb
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.pdb
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+D:\Training\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.dll
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.dll
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Model.pdb
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\bin\Debug\Common.pdb
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+E:\项目\未分类\MyFtpSoft\MyFtpSoft\MyFtpSoft\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\bin\Debug\MyFTPHelper.dll
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\bin\Debug\MyFTPHelper.pdb
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\bin\Debug\Common.dll
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\bin\Debug\Model.dll
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\bin\Debug\Common.pdb
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\bin\Debug\Model.pdb
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\obj\Debug\MyFTPHelper.csprojResolveAssemblyReference.cache
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\obj\Debug\MyFTPHelper.dll
+E:\C# 下载的源码\01 FTP Code\taobeeFTP\MyFTPHelper\obj\Debug\MyFTPHelper.pdb
